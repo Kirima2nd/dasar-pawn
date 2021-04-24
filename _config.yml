@@ -1,4 +1,4 @@
-title: "Remote theme example"
+title: "Dasar Pawn v1.0"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 
@@ -56,18 +56,3 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: false # show or hide edit this page link
-
-collections:
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
-  tutorials:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  collections:
-    docs:
-      name: Documentation
-    tutorials:
-      name: Tutorials
