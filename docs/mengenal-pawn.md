@@ -2,6 +2,7 @@
 title: Mengenal Pawn
 has_children: false
 nav_order: 2
+permalink: /docs/mengenal-pawn
 ---
 
 # Mengenal Pawn
