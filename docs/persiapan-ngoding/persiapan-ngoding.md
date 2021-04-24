@@ -2,6 +2,7 @@
 title: Persiapan Ngoding
 has_children: true
 nav_order: 3
+permalink: /docs/persiapan-ngoding
 ---
 
 # Mempersiapkan alat sebelum Ngoding
