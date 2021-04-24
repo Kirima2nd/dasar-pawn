@@ -7,10 +7,11 @@ permalink: /
 
 
 # Dasar Pawn 1.0
-
 {: .fs-9 }
 
-Sebuah tutorial dasar bagaimana mengimplementasikan Pawn kedalam SA:MP server. {: .fs-6 .fw-300 }
+Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+{: .fs-6 .fw-300 }
+
 ---
 
 Pada kesempatan kali ini, selain gw upload tentang video dasar Pawn, gw akan mencoba membuat sebuah guide tutorial yang lebih lengkap daripada video jadi untuk kalian yang males dengerin gw ngomong bisa langsung cek dokumentasi ini.
