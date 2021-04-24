@@ -1,4 +1,6 @@
-theme: just-the-docs
+title: "Remote theme example"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -54,9 +56,6 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: false # show or hide edit this page link
-
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
 
 collections:
   docs:
