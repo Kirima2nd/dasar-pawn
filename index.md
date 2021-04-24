@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+permalink: /
+---
+
+
 # Dasar Pawn 1.0
 
 Pada kesempatan kali ini, selain gw upload tentang video dasar Pawn, gw akan mencoba membuat sebuah guide tutorial yang lebih lengkap daripada video jadi untuk kalian yang males dengerin gw ngomong bisa langsung cek dokumentasi ini.
