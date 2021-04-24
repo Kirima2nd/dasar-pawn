@@ -8,6 +8,11 @@ permalink: /
 
 # Dasar Pawn 1.0
 
+{: .fs-9 }
+
+Sebuah tutorial dasar bagaimana mengimplementasikan Pawn kedalam SA:MP server. {: .fs-6 .fw-300 }
+---
+
 Pada kesempatan kali ini, selain gw upload tentang video dasar Pawn, gw akan mencoba membuat sebuah guide tutorial yang lebih lengkap daripada video jadi untuk kalian yang males dengerin gw ngomong bisa langsung cek dokumentasi ini.
 
 Disini terdapat sebuah tutorial mengenai bagaimana Pawn dan cara ngodingnya seperti apa, tentu tutorial ini hanya mencangkup dasar yang perlu kalian ketahui doang dan gw ga ngomongin tentang masalah semua callback ataupun semua fungsi yang terkandung di SA:MP. 
