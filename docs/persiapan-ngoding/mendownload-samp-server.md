@@ -3,6 +3,7 @@ title: Mendownload SA:MP Server
 parent: Persiapan Ngoding
 has_children: false
 nav_order: 1
+permalink: /docs/persiapan-ngoding/download-server
 ---
 
 # Mendownload SA:MP Server
