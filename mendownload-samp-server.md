@@ -1,6 +1,6 @@
 ---
 title: Mendownload SA:MP Server
-parent: persiapan-ngoding
+parent: Persiapan Ngoding
 has_children: false
 nav_order: 1
 ---
