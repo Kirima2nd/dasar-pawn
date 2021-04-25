@@ -1,7 +1,7 @@
 ---
 title: Struktur dasar Server
 parent: Persiapan Ngoding
-has_children: false
+has_children: true
 nav_order: 2
 permalink: /docs/persiapan-ngoding/struktur-dasar-server
 ---
