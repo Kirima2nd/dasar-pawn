@@ -2,7 +2,7 @@
 title: Mengedit server.cfg
 parent: Persiapan Ngoding
 has_children: false
-nav_order: 2
+nav_order: 3
 permalink: /docs/persiapan-ngoding/edit-server-cfg
 ---
 
