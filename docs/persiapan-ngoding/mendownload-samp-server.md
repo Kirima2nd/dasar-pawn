@@ -25,7 +25,7 @@ Linux Version:
 
 Ketika sudah selesai mendownload SA:MP Server, maka kalian dapat langsung melihat kontens dibawah ini:
 
-## Mengekstraksi Server
+# Mengekstraksi Server
 
 Ketika kalian sudah mendownload salah satu link diatas, maka langkah selanjutnya adalah mengeksraksi konten didalam zip atau .tar.gz tersebut ke dalam folder yang kalian inginkan
 (di contoh ini gw akan menaruhnya di desktop)
