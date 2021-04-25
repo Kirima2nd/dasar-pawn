@@ -30,6 +30,6 @@ Ketika sudah selesai mendownload SA:MP Server, maka kalian dapat langsung meliha
 Ketika kalian sudah mendownload salah satu link diatas, maka langkah selanjutnya adalah mengeksraksi konten didalam zip atau .tar.gz tersebut ke dalam folder yang kalian inginkan
 (di contoh ini gw akan menaruhnya di desktop)
 
-[image here]
+![](../../assets/img/extraction.gif)
 
 Ketika sudah di ekstraksi, kalian dapat mengecek bagaimana pertama kali setting server.cfg agar tidak muncul error.
